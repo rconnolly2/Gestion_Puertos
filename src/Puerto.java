@@ -3,9 +3,7 @@ import java.util.Comparator;
 
 public class Puerto {
     private static ArrayList<Barco> barcosEntrantes = new ArrayList<Barco>();
-    private static ArrayList<Pantalan> listPantalan = new ArrayList<Pantalan>();
-    private static Integer contador = 0;
-    
+    private static ArrayList<Pantalan> listPantalan = new ArrayList<Pantalan>();    
 
     public Puerto() {
         ; // no hace nada
